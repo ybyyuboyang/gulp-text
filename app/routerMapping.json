@@ -1,0 +1,4 @@
+{
+	"test/user/userlist": "mock/user/userlist.json",
+	"test/block/blocklist": "mock/block/blocklist.json"
+}
